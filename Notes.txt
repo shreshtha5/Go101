@@ -1,0 +1,3 @@
+functions --> packages --> modules
+func{ --> the next bracket should start from here only not next line
+functions can return multiple values in Go.
